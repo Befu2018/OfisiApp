@@ -1,0 +1,6 @@
+{
+  "name": "Mangasi CSOMS",
+  "description": "Mangasi Cleaning Services Operations Management System (CSOMS) for workforce, attendance, payroll, inventory, contracts, and invoicing across Tanzania branches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
